@@ -3,6 +3,7 @@
 Clone this git repo into your X-Plane directory to add the following hacks:
 
 * A python script for configuring the GPS and radios for a(n instrument) flight plan
+* A bash script to backup your X-Plane configs
 
 
 Coming:
